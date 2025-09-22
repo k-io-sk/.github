@@ -15,14 +15,14 @@
 > 주제 - AI로 다시 뛰는 우리 동네 : 지역 경제와 삶을 AI로 연결해 보세요.</br>
 > 아이디어</br>
 >
-> 프로젝트 기간 : 2025/07/21 ~ 2025/08/26
+> 프로젝트 기간 : 2025/09/12 ~ 2025/12/24
 
 ## 🤩 팀원들(Team Members)
 
-|                                     Lead/FullStack Developer                                    |                                               Design                                               |                                       FE Developer                                      |                                     BE Developer                                    |
-|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
-|                       [윤희준](https://github.com/uni-j-uni)                      |                       [오지우](https://github.com/uni-j-uni)                      |                   [신채린](https://github.com/shinchaerin79)                  |                        [금시언](https://github.com/silversieon)                        |
-| <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="300" height="300" /> | <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="300" height="300" /> | <img src="https://avatars.githubusercontent.com/u/166346480?v=4" width="300" height="300" /> | <img src="https://avatars.githubusercontent.com/u/172238270?v=4" width="300" height="300" /> |
+| Lead/BE Developer   | Designer | FE Developer     | BE Developer     |
+|:------------------------:|:------:|:------------:|:------------:|
+|[윤희준](https://github.com/uni-j-uni)|[오지우](https://github.com/uni-j-uni)|[신채린](https://github.com/shinchaerin79)|[금시언](https://github.com/silversieon)                        |
+| <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/166346480?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/172238270?v=4" width="200" height="200" /> |
 
 ## 🛠️ 기술 스택(Tech)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
