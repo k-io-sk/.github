@@ -1,33 +1,75 @@
-# 프로젝트 이름
+# WITH:EVENT
+[![Project Link](https://img.shields.io/badge/%20Project%20Site-withevent-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://withevent.kr/)  
 
-![프로젝트 로고](로고 이미지 URL)
+### 💡 프로젝트 요약
 
+**서비스 개요**  
+> WITH:EVENT는 종로구에서 열리는 공연, 전시, 축제, 교육 행사를  
+한눈에 확인할 수 있는 문화 이벤트 안내 서비스입니다.  
 
-## 🥔 프로젝트 이름
+> 사용자는 원하는 이벤트를 빠르게 검색하고,  
+카테고리별로 정리된 정보를 통해 자신에게 맞는 행사를 쉽게 찾을 수 있습니다.
 
-> 프로젝트 요약</br>
-> 프로젝트 요약</br>
-> 프로젝트 요약
+**문제 정의**  
+> 문화행사 정보는 다양한 곳에 흩어져 있어  
+사용자가 한 번에 확인하기 어렵고, 원하는 행사만 선별하기에도 불편함이 존재합니다.  
 
-## 🎯 프로젝트의 목적(Purpose)
+> 특히 지역 기반 행사 정보를 빠르게 탐색할 수 있는 서비스가 부족합니다.
 
-> LikeLion 13th Hackathon</br>
-> 주제 - AI로 다시 뛰는 우리 동네 : 지역 경제와 삶을 AI로 연결해 보세요.</br>
-> 아이디어</br>
->
-> 프로젝트 기간 : 2025/09/12 ~ 2025/12/24
+**WITH:EVENT의 Solution**  
+> **이벤트 통합 제공 → 빠른 검색 → 직관적인 탐색 경험**  
 
-## 🤩 팀원들(Team Members)
+> WITH:EVENT는 종로구 문화행사를 한 곳에 모아 제공하고,  
+사용자가 쉽고 빠르게 원하는 이벤트를 찾을 수 있도록 돕습니다.
+
+<br>
+
+### 🚀 Service Goals
+
+#### [1] 통합 이벤트 탐색 환경 제공
+> 종로구 내 다양한 문화행사를 한 곳에서 조회하고  
+카테고리 기반으로 체계적으로 탐색할 수 있는 환경 구축
+
+#### [2] 빠르고 직관적인 검색 경험
+> 키워드 기반 검색을 통해  
+사용자가 원하는 이벤트를 즉시 찾을 수 있도록 지원
+
+#### [3] 사용자 중심 추천 기능 제공
+> 랜덤 이벤트 추천 및 MBTI 기반 키오스크 추천을 통해  
+사용자의 취향에 맞는 행사 탐색 지원
+
+#### [4] 온·오프라인 연계 서비스 확장
+> 인사동 키오스크를 통해  
+오프라인에서도 쉽게 이벤트를 추천받을 수 있는 경험 제공
+
+<br>
+
+## 팀원들(Team Members)
 
 | Lead/BE Developer   | Designer | FE Developer     | BE Developer     |
 |:------------------------:|:------:|:------------:|:------------:|
-|[윤희준](https://github.com/uni-j-uni)|[오지우](https://github.com/uni-j-uni)|[신채린](https://github.com/shinchaerin79)|[금시언](https://github.com/silversieon)                        |
-| <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/166346480?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/172238270?v=4" width="200" height="200" /> |
+|[윤희준](https://github.com/uni-j-uni)|[오지우](https://github.com/ju0321)|[신채린](https://github.com/shinchaerin79)|[금시언](https://github.com/silversieon)                        |
+| <img src="https://avatars.githubusercontent.com/u/118972548?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/ju0321" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/166346480?v=4" width="200" height="200" /> | <img src="https://avatars.githubusercontent.com/u/172238270?v=4" width="200" height="200" /> |
 
-## 🛠️ 기술 스택(Tech)
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<br>
+
+## 기술 스택(Tech)
+### Design (UI/UX)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-4B32C3?style=for-the-badge&logo=vite&logoColor=white)
+![axios](https://img.shields.io/badge/axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-5D8AA8?style=for-the-badge&logo=spring-data&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Infra
 ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-f7f7f7?style=for-the-badge&logo=AmazonAWS&logoColor=f89400)
@@ -41,12 +83,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-## ERD 설계
-![ERD](ERD 이미지 URL)
-
-## API 설계 문서
-> 작성중
-
-## GitHub Flow
-![github-flow](https://i.ibb.co/p3Gfnvs/Kakao-Talk-20241115-230442579-01.png)
