@@ -1,4 +1,6 @@
 # WITH:EVENT
+**온라인 탐색부터 키오스크 추천까지 이어지는 종로 문화 이벤트 안내 서비스, WITH:EVENT** 
+<br>  
 [![Project Link](https://img.shields.io/badge/%20Project%20Site-withevent-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://withevent.kr/)  
 
 ### 💡 프로젝트 요약
